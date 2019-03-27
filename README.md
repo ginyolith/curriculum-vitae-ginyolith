@@ -105,7 +105,7 @@
 - アジャイル/スクラムでのプロジェクト管理
 
 ## 登壇歴
-− 2019/03/19 : [あるあるLT〜スマホアプリ開発エンジニア〜 Vol.3](https://andfactory.connpass.com/event/115103/)
+- 2019/01/19 : [あるあるLT〜スマホアプリ開発エンジニア〜 Vol.3](https://andfactory.connpass.com/event/115103/)
     - [複雑なレイアウト組む時あるあるは コンポーネント化で解決しよう](https://speakerdeck.com/ginyolith/fu-za-nareiautozu-mushi-aruaruha-konponentohua-dejie-jue-siyou)
 - 2019/01/19 : [あるあるLT〜スマホアプリ開発エンジニア〜 Vol.2](https://andfactory.connpass.com/event/113106/)
     - [OS1人ずつ開発の辛みあるあるは アーキテクチャで解決出来そう](https://speakerdeck.com/ginyolith/ge-os1ren-zutukai-fa-falsexin-miaruaruha-akitekutiyadejie-jue-chu-lai-sou)
