@@ -105,10 +105,12 @@
 - アジャイル/スクラムでのプロジェクト管理
 
 ## 登壇歴
+− 2019/03/19 : [あるあるLT〜スマホアプリ開発エンジニア〜 Vol.3](https://andfactory.connpass.com/event/115103/)
+    - [複雑なレイアウト組む時あるあるは コンポーネント化で解決しよう](https://speakerdeck.com/ginyolith/fu-za-nareiautozu-mushi-aruaruha-konponentohua-dejie-jue-siyou)
 - 2019/01/19 : [あるあるLT〜スマホアプリ開発エンジニア〜 Vol.2](https://andfactory.connpass.com/event/113106/)
-    - [クリぼっちでも出来る issue駆動開発](https://speakerdeck.com/ginyolith/kuribotutidemochu-lai-ru-issuequ-dong-kai-fa)
-- 2018/12/25 : [クリぼっちを救う会。〜LTを楽しむ〜](https://andfactory.connpass.com/event/112322/)
     - [OS1人ずつ開発の辛みあるあるは アーキテクチャで解決出来そう](https://speakerdeck.com/ginyolith/ge-os1ren-zutukai-fa-falsexin-miaruaruha-akitekutiyadejie-jue-chu-lai-sou)
+- 2018/12/25 : [クリぼっちを救う会。〜LTを楽しむ〜](https://andfactory.connpass.com/event/112322/)
+    - [クリぼっちでも出来る issue駆動開発](https://speakerdeck.com/ginyolith/kuribotutidemochu-lai-ru-issuequ-dong-kai-fa)
 - 2018/10/25 : [若手エンジニアあるあるLT〜スマホアプリ開発編](https://andfactory.connpass.com/event/103233/)
     - [Android開発初心者にありがちな事](https://speakerdeck.com/andfactory/androidkai-fa-chu-xin-zhe-niarigatinakoto-05dd31e7-dc37-45a5-a656-4036a3bbf840)
 
