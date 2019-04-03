@@ -43,6 +43,8 @@
   - LiveData
   - ViewModel
   - Room 
+- Clean Architecture
+- MVVM
 - Firebase
   - Analytics
   - FCM
@@ -90,8 +92,7 @@
   - navigation archtecture component
   - UI testと運用策定
   - より効率的なCI/CDの構築（gitlabは経験あり）
-  - Clearn Architecture（経験あり）
-  - Domain Driven Development (一部取り入れて現在着手中のプロジェクトで開発中）
+  - ドメイン駆動設計 (一部取り入れて現在着手中のプロジェクトで開発中）
   - Test Driven Development（経験あり）
 - Kotlin
   - Kotlin/Nativeによるマルチプラットフォーム化
